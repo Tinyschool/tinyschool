@@ -8,3 +8,5 @@ The following is a collection of blog posts, videos, and books that will help yo
 [Life skills](/tinyschool/lifeskills/)
 
 [Engineering](/tinyschool/engineering/)
+
+[Product Management](/tinyschool/product-management/)
