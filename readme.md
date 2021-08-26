@@ -5,8 +5,8 @@
 
 The following is a collection of blog posts, videos, and books that will help you learn necessary career and life skills.
 
-[Life skills](/tinyschool/lifeskills/)
+[Life skills](https://tinyschool.github.io/tinyschool/lifeskills/)
 
-[Engineering](/tinyschool/engineering/)
+[Engineering](https://tinyschool.github.io/tinyschool/engineering/)
 
-[Product Management](/tinyschool/product-management/)
+[Product Management](https://tinyschool.github.io/tinyschool/product-management/)
