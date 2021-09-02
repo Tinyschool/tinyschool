@@ -1,14 +1,14 @@
-[Engineering Management](https://bestpracticer.com/skill/engineering-management)
+[Engineering Management](/tinyschool/engineering/for-managers/engineering-management)
 
-[Team Building](https://bestpracticer.com/skill/team-building)
+[Team Building](/tinyschool/engineering/for-managers/team-building)
 
-[Employee Feedback](https://bestpracticer.com/skill/employee-feedback)
+[Employee Feedback](/tinyschool/engineering/for-managers/employee-feedback)
 
-[Performance Reviews](https://bestpracticer.com/skill/performance-reviews)
+[Performance Reviews](/tinyschool/engineering/for-managers/performance-reviews)
 
-[Leadership](https://bestpracticer.com/skill/leadership)
+[Leadership](/tinyschool/engineering/for-managers/leadership)
 
-[Firing](https://bestpracticer.com/skill/firing)
+[Firing](/tinyschool/engineering/for-managers/firing)
 
-[OKRS](https://bestpracticer.com/skill/okrs)
+[OKRS](/tinyschool/engineering/for-managers/okrs)
 
