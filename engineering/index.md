@@ -3,3 +3,5 @@
 [Processes](/tinyschool/engineering/processes)
 
 [For Managers](/tinyschool/engineering/for-managers)
+
+[Architecture](/tinyschool/engineering/architecture)
