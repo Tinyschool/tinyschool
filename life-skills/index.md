@@ -1,7 +1,9 @@
-[Communication](/tinyschool/lifeskills/communication/)
+## Learn essential life skills required to thrive in life
 
-[How to make friends](/tinyschool/lifeskills/how-to-make-friends/)
+[Communication](https://tinyschool.github.io/tinyschool/life-skills/communication/)
 
-[Storytelling](/tinyschool/lifeskills/storytelling/)
+[How to make friends](https://tinyschool.github.io/tinyschool/life-skills/how-to-make-friends/)
 
-[Money management](/tinyschool/lifeskills/money-management/)
+[Storytelling](https://tinyschool.github.io/tinyschool/life-skills/storytelling/)
+
+[Money management](https://tinyschool.github.io/tinyschool/life-skills/money-management/)
