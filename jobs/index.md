@@ -1,5 +1,6 @@
--- Copy the following template and replace it with your company details. --
+Jobs will be updated/cleared once every month. 
 
+-- Copy the following template and replace it with your company details. --
 ### Company name
 
 **Role name**
