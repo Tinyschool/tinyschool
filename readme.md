@@ -19,7 +19,7 @@ The following Github Repo is a collection of blog posts, videos, and books that 
 
 - [Product Management »](https://tinyschool.github.io/tinyschool/product-management/)
 
-Find a job » [currently hiring](https://tinyschool.github.io/tinyschool/jobs/).
+Find a job » [Companies hiring this month](https://tinyschool.github.io/tinyschool/jobs/).
 
 ___
 
