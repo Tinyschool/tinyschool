@@ -7,3 +7,5 @@
 [Architecture](/tinyschool/engineering/architecture)
 
 [Data Engineering](/tinyschool/engineering/data-engineering)
+
+[Collaboration Skills](/tinyschool/engineering/collaboration-skills)
