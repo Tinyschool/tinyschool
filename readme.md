@@ -9,11 +9,21 @@ The following Github Repo is a collection of blog posts, videos, and books that 
 
 [Preview this Repo on Github Pages.](https://tinyschool.github.io/tinyschool/)
 
+- [Engineering »](https://tinyschool.github.io/tinyschool/engineering/)
+
+- [Interview Prep »](https://tinyschool.github.io/tinyschool/interview-prep/)
+
+- [Sample Projects »](https://tinyschool.github.io/tinyschool/projects/)
+
+- [Life skills »](https://tinyschool.github.io/tinyschool/life-skills/)
+
+- [Product Management »](https://tinyschool.github.io/tinyschool/product-management/)
+
+Find a job » [currently hiring](https://tinyschool.github.io/tinyschool/jobs/).
+
 ___
 
-See how you can [contribute](/Tinyschool/tinyschool/blob/master/contribute.md) to Tinyschool.
-
-See the companies [currently hiring](/Tinyschool/tinyschool/tree/master/jobs).
+See how you can [contribute](https://github.com/Tinyschool/tinyschool/blob/master/contribute.md) to Tinyschool.
 
 
 Join our [Discord](https://discord.gg/pNBm5aabNJ). Developers help each other out here. Be nice ❤️
