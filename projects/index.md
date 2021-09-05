@@ -8,3 +8,4 @@ Copy the following template and replace it with your company details.
 
 ____
 
+## Projects
