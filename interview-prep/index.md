@@ -1,4 +1,4 @@
-## How to prepare for interviews?
+## Resources to help you prepare for interviews
 
 [Coding challenges](/tinyschool/interview-prep/coding-challenges/)
 

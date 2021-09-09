@@ -1,4 +1,4 @@
-## Learn engineering skills. 
+## Learn Engineering Skills. 
 
 [Processes](/tinyschool/engineering/processes)
 
