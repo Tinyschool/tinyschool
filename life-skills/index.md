@@ -7,3 +7,5 @@
 [Storytelling](https://tinyschool.github.io/tinyschool/life-skills/storytelling/)
 
 [Money management](https://tinyschool.github.io/tinyschool/life-skills/money-management/)
+
+Find more skills to learn [here](https://tiny.school/communication)
