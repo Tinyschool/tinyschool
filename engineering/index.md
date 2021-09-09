@@ -1,4 +1,4 @@
-## Learn engineering skills. 
+## Learn Engineering Skills. 
 
 [Processes](/tinyschool/engineering/processes)
 
@@ -10,4 +10,7 @@
 
 [Collaboration Skills](/tinyschool/engineering/collaboration-skills)
 
-[Collaboration Skills](/tinyschool/engineering/languages-and-frameworks)
+[Languages and Frameworks](/tinyschool/engineering/languages-and-frameworks)
+
+
+Find more skills to learn [here](https://tiny.school)
