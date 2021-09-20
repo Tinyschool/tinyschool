@@ -9,3 +9,9 @@ Copy the following template and replace it with your company details.
 ____
 
 ## Projects
+
+### Pixdeck - a photo search application where one can find high quality photos
+
+**Technologies used: React.js, Unsplash API**
+
+[Preview link](https://github.com/Sreejan-22/pixdeck)
