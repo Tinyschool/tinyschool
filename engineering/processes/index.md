@@ -7,3 +7,5 @@
 [Code Reviews](/tinyschool/engineering/processes/code-reviews)
 
 [Scoping](/tinyschool/engineering/processes/scoping)
+
+[Recommended reads](/tinyschool/engineering/processes/recommended-reads)
