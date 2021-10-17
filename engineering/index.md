@@ -12,5 +12,7 @@
 
 [Languages and Frameworks](/tinyschool/engineering/languages-and-frameworks)
 
+[Recommended reads](/tinyschool/engineering/recommended-reads)
+
 
 Find more skills to learn [here](https://tiny.school)
