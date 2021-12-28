@@ -8,4 +8,6 @@
 
 [Money management](https://tinyschool.github.io/tinyschool/life-skills/money-management/)
 
+[Time management](https://tinyschool.github.io/tinyschool/life-skills/time-management/)
+
 Find more skills to learn [here](https://tiny.school/communication)
