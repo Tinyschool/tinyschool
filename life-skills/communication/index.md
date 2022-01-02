@@ -10,5 +10,9 @@
 
 [Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
 
+### Confidence 
+
+[Project your confidence](https://youtu.be/VRJzvJ5XPQI)
+
 
 
